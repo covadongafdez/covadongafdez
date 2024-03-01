@@ -1,5 +1,5 @@
 ## Acerca de mí
-¡Hola! Soy Covadonga, finalizando mis estudios en Administración de Sistemas Informáticos en Red. Soy una apasionada por la tecnología y estoy constantemente aprendiendo y explorando nuevas herramientas y tecnologías. Este repositorio está dedicado a mi Proyecto de Fin de Ciclo, donde mostraré mis habilidades en DevOps y mi capacidad para implementar soluciones tecnológicas innovadoras. 
+¡Hola! Soy Covadonga, estoy finalizando mis estudios en Administración de Sistemas Informáticos en Red. Soy una apasionada por la tecnología y estoy constantemente aprendiendo y explorando nuevas herramientas y tecnologías. Este repositorio está dedicado a mi Proyecto de Fin de Ciclo, donde mostraré mis habilidades en DevOps y mi capacidad para implementar soluciones tecnológicas innovadoras. 
 
 ## Tecnologías
 
